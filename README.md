@@ -1,10 +1,10 @@
-<section align="center">
+<div align="center">
   <img src="src/assets/logo.svg">
-</section>
+</div>
 
-<section>
+<div>
   <img src="src/assets/ShowGithubExplorer.gif">
-</section>
+</div>
 
 ## 📋 Sobre
 
