@@ -10,7 +10,6 @@
 
 A aplicação Github Explorer serve para buscar e armazenar repositorios do github e foi criada no bootcamp GoStack, para praticar e fixar os conteúdos estudados em **ReactJS** e consumo da API do própio [Github](https://api.github.com)
 
----
 
 ## 🚀 Tecnologias usadas
 
@@ -21,7 +20,6 @@ Foi desenvolvido usando as seguintes tecnologias:
 - [Styled-components](https://styled-components.com)
 - [TypeScript](https://www.typescriptlang.org)
 
----
 
 ## 📦 Como Baixar e Executar o projeto
 
@@ -42,7 +40,6 @@ Foi desenvolvido usando as seguintes tecnologias:
 
 ```
 
----
 
 ## Licença:
 
