@@ -30,9 +30,10 @@ export const Form = styled.form<FormProps>`
     border: 2px solid #fff;
     border-right: 0;
 
-    ${(props) => props.hasError && css`
-      border-color: #C53030;
-    `}
+    ${(props) => props.hasError
+      && css`
+        border-color: #c53030;
+      `}
 
     &::placeholder {
       color: #a8a8b3;
@@ -55,10 +56,9 @@ export const Form = styled.form<FormProps>`
   }
 `;
 
-
 export const Error = styled.span`
-  display:block;
-  color: #C53030;
+  display: block;
+  color: #c53030;
   margin-top: 8px;
 `;
 
@@ -113,5 +113,3 @@ export const Repositories = styled.div`
     }
   }
 `;
-
-
