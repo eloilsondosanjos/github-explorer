@@ -1,16 +1,14 @@
-<h1 align="center">
+<div align="center">
   <img src="src/assets/logo.svg">
-</h1>
+</div>
 
-<h1>
+<div>
   <img src="src/assets/ShowGithubExplorer.gif">
-</h1>
+</div>
 
 ## 📋 Sobre
 
 A aplicação Github Explorer serve para buscar e armazenar repositorios no github e foi criada no bootcamp GoStack, para praticar e fixar o conteúdo estudado em **ReactJS** e consumo da API do própio Github, disponível em: https://api.github.com/.
-
----
 
 ## 🚀 Tecnologias usadas
 
